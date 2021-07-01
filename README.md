@@ -1,16 +1,21 @@
-### Hi there 👋
+## Nice To See You Lads! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-<!--
-**raihanputraramd/raihanputraramd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Raihan Putra Ramadhan, my friend call me Raihan, Putra or Puput, . I like working for front end development. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-RaihanPutraRamadhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raihan-putra-ramadhan-9682b31a0/)](https://www.linkedin.com/in/raihan-putra-ramadhan-9682b31a0/)
+[![Instagram Badge](https://img.shields.io/badge/-raihanputraramd-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/raihanputraramd/)](https://www.instagram.com/raihanputraramd/)
+[![Gmail Badge](https://img.shields.io/badge/-raihanputraramd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raihanputraramd@gmail.com)](mailto:raihanputraramd@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=raihanputraramd&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanputraramd&hide=TeX&layout=compact)
