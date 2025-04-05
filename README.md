@@ -10,5 +10,4 @@ I am Raihan Putra Ramadhan, my friend call me Raihan, Putra or Puput, . I like w
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=raihanputraramd&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanputraramd&hide=TeX&layout=compact)
