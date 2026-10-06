@@ -53,16 +53,13 @@ Sebuah klub tidak akan berjalan tanpa adanya kegiatan nyata. Berikut adalah bebe
 
 - 📌 **Gawaikita** - *Full Stack Developer* | (2021 - Sekarang)
   - *Laporan Kegiatan:* Mengelola, mengembangkan, dan memelihara sistem inti dari web Gawaikita. Bertindak sebagai pilar utama *klub* dalam memastikan *frontend* dan *backend* berjalan harmonis.
-  - *Evaluasi / Hasil:* Memastikan stabilitas platform selama bertahun-tahun serta terus melakukan pembaruan fitur untuk kebutuhan operasional.
 
-- 📌 **[Confidential Government Project]** - *Full Stack Developer* | ([Tahun, misal: 2022 - 2023])
-  - *Laporan Kegiatan:* Menerima dan menyelesaikan *request* khusus dari "Dewan Komite" (Instansi Pemerintahan) untuk membangun sistem informasi berbasis web.
-  - *Evaluasi / Hasil:* Berhasil merancang arsitektur web yang aman dan andal untuk menangani, mengelola, serta memproses data berskala besar sesuai dengan regulasi yang ketat.
+- 📌 **[Confidential Government Project]** - *Full Stack Developer* | 2022 - 2023
+  - *Laporan Kegiatan:* Menerima dan menyelesaikan *request* khusus dari Instansi Pemerintahan untuk membangun sistem informasi berbasis web.
+  
 
-- 📌 **WhatsApp Chatbot** - *Personal Project / Solo Developer* | ([Tahun, misal: 2023])
+- 📌 **WhatsApp Chatbot** - *Personal Project / Solo Developer* | 2024
   - *Laporan Kegiatan:* Proyek inovasi independen untuk menciptakan asisten otomatis. Mengembangkan *chatbot* WhatsApp yang mampu merespons pesan secara *real-time*.
-  - *Evaluasi / Hasil:* Mempermudah alur komunikasi dan memberikan respons instan layaknya asisten klub yang siap sedia 24/7.
-
 ---
 
 ## 📮 Submit a Request (Let's Connect!)
