@@ -70,5 +70,5 @@ Punya masalah sistem yang perlu diselesaikan? Ingin membangun aplikasi web baru?
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raihanputraramd@gmail.com)
 <br>
 <div align="center">
-  <i>"Selamat datang di Klub Relawan. Ada yang bisa saya bantu?" - Yukinoshita Yukino</i>
+  <i>"Jika keinginan dapat dikabulkan,dan keinginan dapat dipenuhi, maka aku tidak akan berharap atau menginginkan apa pun." - Hikigaya Hachiman</i>
 </div>
