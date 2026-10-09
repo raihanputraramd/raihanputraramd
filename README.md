@@ -1,10 +1,8 @@
 <div align="center">
   <!-- 3 GIF Yukino berjejer sesuai permintaan -->
-  <img src="https://i.pinimg.com/originals/7d/ac/2d/7dac2d75246e2506b6f840a99cd117e5.gif" width="250px" alt="Yukino 1">
-  <img src="https://78.media.tumblr.com/46584bb8b10ef776ce81339ccb685d0a/tumblr_ofrm1ylO7e1qehrvso2_500.gif" width="250px" alt="Yukino 2">
-  <img src="https://i.pinimg.com/originals/e8/79/cb/e879cb663e178e1afbd34a3575aeb8ef.gif" width="250px" alt="Yukino 3">
-  
-  <h1>Konnichiwa! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
+  <img src="https://i.pinimg.com/originals/7d/ac/2d/7dac2d75246e2506b6f840a99cd117e5.gif" width="500px" alt="Yukino 1">
+  <img src="https://78.media.tumblr.com/46584bb8b10ef776ce81339ccb685d0a/tumblr_ofrm1ylO7e1qehrvso2_500.gif" width="500px" alt="Yukino 2">
+  <img src="https://i.pinimg.com/originals/e8/79/cb/e879cb663e178e1afbd34a3575aeb8ef.gif" width="500px" alt="Yukino 3">
 </div>
 
 ## 🏫 Student Profile (About Me)
